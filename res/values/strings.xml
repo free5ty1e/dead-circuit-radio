@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">dead-circuit-radio</string>
-  <string name="shoutcast_stream_url">http://vprbbc.streamguys.net:80/vprbbc24.mp3</string>
+  <string name="shoutcast_stream_url">http://mixlr.com/mixmastercircuit</string>
 </resources>
